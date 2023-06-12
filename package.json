@@ -1,5 +1,5 @@
 {
-  "name": "cart",
+  "name": "railsspace",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
